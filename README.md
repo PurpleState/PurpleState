@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Serverless Architecture 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on HBase
+- 🤔 I’m looking for help with Kafka
+- 💬 Ask me about Interview Techniques
+- 📫 How to reach me: LinkedIn, Instagram
+- ⚡ Fun fact: I am really bendy :D. There is only one me.
+
 <!--
 **PurpleState/PurpleState** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
