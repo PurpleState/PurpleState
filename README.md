@@ -1,24 +1,21 @@
-### Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-- 🔭 I’m currently working on Serverless Architecture 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on HBase
-- 🤔 I’m looking for help with Kafka
-- 💬 Ask me about Interview Techniques
-- 📫 How to reach me: LinkedIn, Instagram
-- ⚡ Fun fact: I am really bendy :D. There is only one me.
+Software Engineer at Microsoft
 
-<!--
-**PurpleState/PurpleState** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning:
+- Machine Learning
+- Deep Learning
+- PySpark
+- LLMs
 
-Here are some ideas to get you started:
+Writing about my engineering journey:
+- Medium
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+🚀 Neural TTS
+
+## Latest Articles
+
+[Classification algorithms](https://medium.com/illumination/one-candidate-five-hiring-managers-the-easiest-way-to-understand-classification-algorithms-5bed1818958d)
